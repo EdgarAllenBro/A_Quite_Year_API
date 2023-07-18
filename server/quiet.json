@@ -76,36 +76,36 @@
                 "optionTwo":"A Scarcity has gone unaddressed for too long! Start a project that will alleviate that Scarcity."
             },
             "nine":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"A project fails. Which one? Why?",
+                "optionTwo":"Something goes foul and supplies are ruined. Add a new Scarcity."
             },
             "eight":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Someone tries to take control of the community by force. Do they succeed? Why do they do this?",
+                "optionTwo":"A headstrong community member decides to put one of their ideas in motion. Start a foolish project."
             },
             "seven":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Introduce a mystery at the edge of the map.",
+                "optionTwo":"An unattended situation becomes problematic and scary. What is it? How does it go awry?"
             },
             "six":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Outsiders arrive in the area. Why are they a threat? How are they vulnerable?",
+                "optionTwo":"Outsiders arrive in the area. How many? How are they greeted?"
             },
             "five":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"A project finishes early. What led to its early completion?",
+                "optionTwo":"The weather is nice and people can feel the potential all around them. Start a new project."
             },
             "four":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"The eldest among you dies. What caused the death?",
+                "optionTwo":"The eldest among you is very sick. Caring for them and searching for a cure requires the help of the entire community. Do not reduce project dice this week."
             },
             "three":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Summer is a time for production and tending to the earth. Start a project related to food production.",
+                "optionTwo":"Summer is a time for conquest and the gathering of might. Start a project related to military readiness and conquest."
             },
             "two":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Someone new arrives. Who? Why are they in distress?",
+                "optionTwo":"Someone leaves the community. Who? What are they looking for?"
             }
         },
         "clubs":{
