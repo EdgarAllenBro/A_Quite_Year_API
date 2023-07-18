@@ -18,62 +18,62 @@
                 "optionTwo":"You see a bad omen. What is it?"
             },
             "ten":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"There’s another community somewhere on the map. Where are they? What sets them apart from you?",
+                "optionTwo":"What belief or practice helps to unify your community?"
             },
             "nine":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"A charismatic young girl convinces many to help her with an elaborate scheme. What is it? Who joins her endeavors? Start a project to reflect.",
+                "optionTwo":"A charismatic young girl tries to tempt many into sinful or dangerous activity. Why does she do this? How does the community respond?"
             },
             "eight":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"An old piece of machinery is discovered, broken but perhaps repairable. What is it? What would it be useful for?",
+                "optionTwo":"An old piece of machinery is discovered, cursed and dangerous. How does the community destroy it?"
             },
             "seven":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Where does everyone sleep? Who is unhappy with this arrangement, and why?",
+                "optionTwo":"What natural predators roam this area? Are you safe?"
             },
             "six":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Are there children in the community? If there are, what is their role in the community?",
+                "optionTwo":"How old are the eldest members of the community? What unique needs do they have?"
             },
             "five":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"There is a disquieting legend about this place. What is it?",
+                "optionTwo":"Alarming weather patterns destroy something. How and what?"
             },
             "four":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"What important and basic tools does the community lack?",
+                "optionTwo":"Where are you storing your food? Why is this a risky place to store things?"
             },
             "three":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Someone new arrives. Who?",
+                "optionTwo":"Two of the community’s younger members get into a fight. What provoked them?"
             },
             "two":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"There’s a large body of water on the map. Where is it? What does it look like?",
+                "optionTwo":"There’s a giant man-made structure on the map. Where is it? Why is it abandoned?"
             }
         },
         "diamonds":{
             "ace":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"A contingent within the community demand to be heard. Who are they? What are they asking for?",
+                "optionTwo":"A contingent within the community have acted on their frustrations. What have they damaged, and why did they damage it? Is it permanent?"
             },
             "king":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Summer is fleeting.",
+                "optionTwo":"Discard the top two cards off the top of the deck and take two actions this week."
             },
             "queen":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"A project finishes early. Which one? Why?",
+                "optionTwo":"If there are no projects underway, boredom leads to a quarrel. A fight breaks out between two people. What is it about?"
             },
             "jack":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Predators and bad omens are afoot. You are careless, and someone goes missing under ominous circumstances. Who?",
+                "optionTwo":"Predators and bad omens are afoot. What measures do you take to keep everyone safe and under surveillance? Do not reduce project dice this week."
             },
             "ten":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"You discover a cache of supplies or resources. Add a new Abundance.",
+                "optionTwo":"A Scarcity has gone unaddressed for too long! Start a project that will alleviate that Scarcity."
             },
             "nine":{
                 "optionOne":"",
