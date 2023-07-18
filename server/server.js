@@ -5,7 +5,7 @@ const app = express()
 app.use(express.json())
 app.use(cors())
 
-const {getAllCards,getAllSuit, getCard} = require('./controller')
+const {getAllCards,getAllSuit, getCard, getOption} = require('./controller')
 
 
 
@@ -13,6 +13,7 @@ const {getAllCards,getAllSuit, getCard} = require('./controller')
 app.get('/cards', getAllCards)
 app.get('/cards/:suit',getAllSuit)
 app.get('/cards/:suit/:card',getCard)
+app.get('/cards/:suit/:card/:option',getOption)
 
 
 

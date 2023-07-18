@@ -60,8 +60,8 @@
                 "optionTwo":"A contingent within the community have acted on their frustrations. What have they damaged, and why did they damage it? Is it permanent?"
             },
             "king":{
-                "optionOne":"Summer is fleeting.",
-                "optionTwo":"Discard the top two cards off the top of the deck and take two actions this week."
+                "optionOne":"Summer is fleeting. Discard the top two cards off the top of the deck and take two actions this week.",
+                "optionTwo":""
             },
             "queen":{
                 "optionOne":"A project finishes early. Which one? Why?",
@@ -110,56 +110,56 @@
         },
         "clubs":{
             "ace":{
-                "optionOne":"",
+                "optionOne":"The community becomes obsessed with a single project. Which one? Why? Choose one: • They decide to take more time to ensure that it is perfect. Add 3 weeks to the project die. • They drop everything else to work on it. All other projects fail. If there are no projects underway, add a Scarcity born of idleness.",
                 "optionTwo":""
             },
             "king":{
-                "optionOne":"",
+                "optionOne":"A natural disaster strikes the area. Choose one: • You focus on getting everyone to safety. Remove an Abundance and a project fails. • You focus on protecting your supplies and hard work at any cost. Several people die as a result.",
                 "optionTwo":""
             },
             "queen":{
-                "optionOne":"",
+                "optionOne":"Disease spreads through the community. Choose one: • You spend the week quarantining and treating the disease. Project dice are not reduced this week. • Nobody knows what to do about it. Add “Health and Fertility” as a Scarcity.",
                 "optionTwo":""
             },
             "jack":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"A project finishes early. Which one? Why?",
+                "optionTwo":"If there are no projects underway, restlessness creates animosity, which leads to violence. Who gets hurt?"
             },
             "ten":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Harvest is here and plentiful. Add an Abundance.",
+                "optionTwo":"Cold autumn winds drive out your enemies. Remove a threatening force from the map and the area."
             },
             "nine":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"The community works constantly, and as a result a project finishes early.",
+                "optionTwo":"A group goes out to explore the map more thoroughly, and finds something that had been previously overlooked."
             },
             "eight":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Someone sabotages a project, and the project fails as a result. Who did this? Why?",
+                "optionTwo":"Someone is caught trying to sabotage the efforts of the community. How does the community respond?"
             },
             "seven":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"A project just isn’t working out as expected. Radically change the nature of this project (don’t modify the project die). When it resolves, you’ll be responsible for telling the community how it went.",
+                "optionTwo":"Something goes foul and supplies are ruined. Add a new Scarcity."
             },
             "six":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Introduce a dark mystery among the members of the community.",
+                "optionTwo":"Conflict flares up among community members, and as a result, a project fails."
             },
             "five":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"The Parish arrives. Who are they? Why have they chosen your community, and for what?",
+                "optionTwo":"A small gang of marauders is making its way through local terrain. How many are there? What weapons do they carry?"
             },
             "four":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"The strongest among you dies. What caused the death?",
+                "optionTwo":"The weakest among you dies. Who’s to blame for their death?"
             },
             "three":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Someone leaves the community after issuing a dire warning. Who? What is the warning?",
+                "optionTwo":"Someone issues a dire warning, and the community leaps into action to avoid disaster. What is the warning? Start a contentious project that relates to it."
             },
             "two":{
-                "optionOne":"",
-                "optionTwo":""
+                "optionOne":"Someone returns to the community. Who? Where were they?",
+                "optionTwo":"You find a body. Do people recognize who it is? What happened?"
             }
         },
         "spades":{

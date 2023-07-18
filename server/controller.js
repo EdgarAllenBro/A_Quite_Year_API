@@ -13,5 +13,9 @@ getAllSuit : (req,res)=>{
 getCard : (req,res)=>{
     let {suit,card} = req.params
     res.status(200).send(cardsDB.cards[`${suit}`][`${card}`])
+},
+getOption : (req,res)=>{
+    let {suit,card,option} = req.params
+    res.status(200).send(cardsDB.cards[`${suit}`][`${card}`][`${option}`])
 }
 }
